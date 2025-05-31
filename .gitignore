@@ -1,0 +1,25 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pkl
+
+# VSCode / PyCharm
+.vscode/
+.idea/
+
+# Environments
+.env
+.venv/
+env/
+venv/
+
+# Logs / temp
+*.log
+*.tmp
+
+# Spark temp folders
+.metastore_db/
+spark-warehouse/
+
+# Jupyter
+.ipynb_checkpoints/
